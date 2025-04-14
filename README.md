@@ -6,7 +6,7 @@
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 20/2046102  |  Felipe das Neves Freore  |
+| 20/2046102  |  Felipe das Neves Freire  |
 | 22/2037700  |  Leonardo de Melo Lima  |
 
 ## Sobre 
