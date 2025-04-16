@@ -1,6 +1,4 @@
-## GRAFOS1-HACKERRANK_Problems
-
-# Repositório destinado a documentação do trabalho de Projeto de algoritmo
+# GRAFOS 1 - HACKERRANK PROBLEMS
 
 **Número da Lista**: XX
 **Conteúdo da Disciplina**: Grafos-1
@@ -9,7 +7,7 @@
 
 Este projeto consiste na resolução de questões da plataforma HackerRank variando nas dificuldades de médio e difícil. O objetivo é utilizar o conteúdo em sala.
 
-# Questões
+## Questões
 
 <center>
 
@@ -44,7 +42,7 @@ Este projeto consiste na resolução de questões da plataforma HackerRank varia
 
 </center>
 
-# Contribuidores
+## Contribuidores
 
 <center>
 
