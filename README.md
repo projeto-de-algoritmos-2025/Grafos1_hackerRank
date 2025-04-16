@@ -1,7 +1,7 @@
 # GRAFOS 1 - HACKERRANK PROBLEMS
 
 **Número da Lista**: XX
-**Conteúdo da Disciplina**: Grafos-1
+**Conteúdo da Disciplina**: Grafos 1
 
 ## Sobre
 
