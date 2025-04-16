@@ -23,7 +23,7 @@ Este projeto consiste na resolução de questões da plataforma HackerRank varia
     </thead>
     <tbody>
         <tr>
-            <td><a href="" target="_blank"></td>
+            <td><a href="https://www.hackerrank.com/challenges/crab-graphs/problem?isFullScreen=true" target="_blank">BFS: Crab Graphs</td>
             <td>Médio</td>
         </tr>
         <tr>
