@@ -1,30 +1,100 @@
-# NomedoProjeto
+## PROJETO DE ALGORITMOS
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: Grafos 1<br>
+# Repositório destinado a documentação do trabalho de Projeto de algoritmo
 
-## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| 20/2046102  |  Felipe das Neves Freire  |
-| 22/2037700  |  Leonardo de Melo Lima  |
+# Questões
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+<center>
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+</head>
+<body>
 
-## Instalação 
-**Linguagem**: Python<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+<table>
+    <thead>
+        <tr>
+            <th>Questão</th>
+            <th>Nível</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="" target="_blank"></td>
+            <td>Médio</td>
+        </tr>
+        <tr>
+            <td><a href="https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem" target="_blank">BFS: Shortest Reach in a Graph</td>
+            <td>Difícil</td>
+        </tr>
+        <tr>
+            <td><a href="" target="_blank"></td>
+            <td>Difícil</td>
+        </tr>
+    </tbody>
+</table>
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+</body>
+</html>
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+</center>
+
+# Contribuidores
+
+<center>
+
+</head>
+<body>
+
+<table>
+    <thead>
+        <tr>
+            <th>Matrícula</th>
+            <th>Nome</th>
+            <th>GitHub</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>202046102</td>
+            <td>Felipe das Neves Freire</td>
+            <td><a href="https://github.com/FelipeFreire-gf" target="_blank">Harryson</a></td>
+        </tr>
+        <tr>
+            <td>222037700</td>
+            <td>Leonardo de Melo Lima</td>
+            <td><a href="https://github.com/leozinlima" target="_blank">Flávio</a></td>
+        </tr>
+    </tbody>
+</table>
+
+</body>
+</html>
+
+</center>
+
+# Vídeos explicando as questões
 
 
+</head>
+<body>
 
+<table>
+    <thead>
+        <tr>
+            <th>Resoluções</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="" target="_blank">Média 1</a></td>
+        </tr>
+        <tr>
+            <td><a href="" target="_blank">Difícil 1</a></td>
+        </tr>
+        <tr>
+            <td><a href="" target="_blank">Difícil 2</a></td>
+        </tr>
+    </tbody>
+</table>
+
+</body>
+</html>
