@@ -56,12 +56,12 @@
         <tr>
             <td>202046102</td>
             <td>Felipe das Neves Freire</td>
-            <td><a href="https://github.com/FelipeFreire-gf" target="_blank">Harryson</a></td>
+            <td><a href="https://github.com/FelipeFreire-gf" target="_blank">Leonardo</a></td>
         </tr>
         <tr>
             <td>222037700</td>
             <td>Leonardo de Melo Lima</td>
-            <td><a href="https://github.com/leozinlima" target="_blank">Flávio</a></td>
+            <td><a href="https://github.com/leozinlima" target="_blank">Felipe</a></td>
         </tr>
     </tbody>
 </table>
