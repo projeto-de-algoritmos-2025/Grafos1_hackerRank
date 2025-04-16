@@ -1,6 +1,13 @@
-## PROJETO DE ALGORITMOS
+## GRAFOS1-HACKERRANK_Problems
 
 # Repositório destinado a documentação do trabalho de Projeto de algoritmo
+
+**Número da Lista**: XX
+**Conteúdo da Disciplina**: Grafos-1
+
+## Sobre
+
+Este projeto consiste na resolução de questões da plataforma HackerRank variando nas dificuldades de médio e difícil. O objetivo é utilizar o conteúdo em sala.
 
 # Questões
 
@@ -70,6 +77,14 @@
 </html>
 
 </center>
+
+## Linguagem Utilizada
+
+- Python
+
+## Uso
+
+Entrar na plataforma [HackerRank](https://www.hackerrank.com/dashboard), procurar pelo nome/número do exercício, colar na aba code e clicar em _Run Code_
 
 # Vídeos explicando as questões
 
