@@ -1,3 +1,18 @@
+from collections import deque
+import sys
+
+def bfs_caminho_minimo(n, grafo, s):
+    distancias = [-1] * (n + 1)
+    distancias[s] = 0
+    fila = deque([s])
+    while fila:
+        atual = fila.popleft()
+        for vizinho in grafo[atual]:
+            if distancias[vizinho] == -1:
+                distancias[vizinho] = distancias[atual] + 6
+                fila.append(vizinho)
+    return distancias
+
 def main():
     dados = sys.stdin.read().split()
     t = int(dados[0])
