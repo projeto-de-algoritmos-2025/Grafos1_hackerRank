@@ -1,7 +1,7 @@
-# GRAFOS 1 - HACKERRANK PROBLEMS
+# GRAFOS 01 - HACKERRANK PROBLEMS
 
-**Número da Lista**: XX
-**Conteúdo da Disciplina**: Grafos 1
+**Número da Lista**: 01
+**Conteúdo da Disciplina**: Grafos 01
 
 ## Sobre
 
@@ -98,13 +98,13 @@ Entrar na plataforma [HackerRank](https://www.hackerrank.com/dashboard), procura
     </thead>
     <tbody>
         <tr>
-            <td><a href="" target="_blank">Média 1</a></td>
+            <td><a href="" target="_blank">Média 01</a></td>
         </tr>
         <tr>
-            <td><a href="" target="_blank">Difícil 1</a></td>
+            <td><a href="" target="_blank">Difícil 01</a></td>
         </tr>
         <tr>
-            <td><a href="" target="_blank">Difícil 2</a></td>
+            <td><a href="" target="_blank">Difícil 02</a></td>
         </tr>
     </tbody>
 </table>
