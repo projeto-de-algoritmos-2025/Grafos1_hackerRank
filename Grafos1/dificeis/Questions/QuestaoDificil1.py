@@ -13,7 +13,7 @@ def bfs_caminho_minimo(n, grafo, s):
                 fila.append(vizinho)
     return distancias
 
-def main():
+def resolver():
     dados = sys.stdin.read().split()
     t = int(dados[0])
     indice = 1
@@ -41,4 +41,4 @@ def main():
     sys.stdout.write("\n".join(resultados))
 
 if __name__ == '__main__':
-    main()
+    resolver()
