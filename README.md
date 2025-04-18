@@ -1,6 +1,5 @@
 # GRAFOS 01 - HACKERRANK PROBLEM AND LABYRINTH GAME
 
-**Número da Lista**: 01
 **Conteúdo da Disciplina**: Grafos 01
 
 ## Sobre
@@ -103,12 +102,12 @@ python labirinto.py
 <table>
     <thead>
         <tr>
-            <th>HackerRank Problem + Labyrinth Game</th>
+            <th>Vídeo 01</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://www.youtube.com/watch?v=nXo-YzBztkY" target="_blank">Vídeo 01</a></td>
+            <td><a href="https://www.youtube.com/watch?v=nXo-YzBztkY" target="_blank">HackerRank Problem + Labyrinth Game</a></td>
         </tr>
     </tbody>
 </table>
