@@ -101,7 +101,7 @@ Entrar na plataforma [HackerRank](https://www.hackerrank.com/dashboard), procura
             <td><a href="" target="_blank">Média 01</a></td>
         </tr>
         <tr>
-            <td><a href="" target="_blank">Difícil 01</a></td>
+            <td><a href="https://youtu.be/OuYZvFkPdkg" target="_blank">Difícil 01</a></td>
         </tr>
         <tr>
             <td><a href="" target="_blank">Difícil 02</a></td>
