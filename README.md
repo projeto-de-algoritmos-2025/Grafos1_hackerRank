@@ -183,8 +183,11 @@ Na figura 3 apresentamos a tela que ao clicar na ledra D é iniciado o algoritmo
 <img src="Assets/10.png" alt="inicial" style=" max-width: 50%; height: auto; margin-bottom: 20px;">
 </div>
 <div align="center">
-# Vídeo
 
+
+## Vídeo
+
+Explicamos o funcionamento do jogo e do código de nível difécil do HackerRank, como estava difícil de encaixar a explicação da questão média preferimos focar na explicação dos problemas de maior dificuldade.
 
 </head>
 <body>
