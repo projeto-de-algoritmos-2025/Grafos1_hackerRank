@@ -1,11 +1,13 @@
-# GRAFOS 01 - HACKERRANK PROBLEMS
+# GRAFOS 01 - HACKERRANK PROBLEMS AND LABYRINTH GAME
 
 **Número da Lista**: 01
 **Conteúdo da Disciplina**: Grafos 01
 
 ## Sobre
 
-Este projeto consiste na resolução de questões da plataforma HackerRank variando nas dificuldades de médio e difícil. O objetivo é utilizar o conteúdo em sala.
+Este projeto consiste na resolução de questões da plataforma HackerRank variando nas dificuldades de médio e difícil. O objetivo é utilizar o conteúdo estudado.
+
+Proposta de solução de um labirinto utilizando DFS e BFS.
 
 ## Questões
 
@@ -28,10 +30,6 @@ Este projeto consiste na resolução de questões da plataforma HackerRank varia
         </tr>
         <tr>
             <td><a href="https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem" target="_blank">BFS: Shortest Reach in a Graph</td>
-            <td>Difícil</td>
-        </tr>
-        <tr>
-            <td><a href="" target="_blank"></td>
             <td>Difícil</td>
         </tr>
     </tbody>
@@ -83,6 +81,18 @@ Este projeto consiste na resolução de questões da plataforma HackerRank varia
 ## Uso
 
 Entrar na plataforma [HackerRank](https://www.hackerrank.com/dashboard), procurar pelo nome/número do exercício, colar na aba code e clicar em _Run Code_
+
+## Pré-requisitos para o GAME:
+Para rodar o game, é necessário que essas dependências estejam instaladas na sua máquina: 
+- Python 3.10.0 (ou superior)
+- pygame
+
+### Execute a seguinte linha de comando para executar o jogo:
+
+```
+python labirinto.py
+
+```
 
 # Vídeos explicando as questões
 
